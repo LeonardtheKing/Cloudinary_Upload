@@ -1,0 +1,6 @@
+@CloudinaryUpload_HostAddress = http://localhost:5152
+
+GET {{CloudinaryUpload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

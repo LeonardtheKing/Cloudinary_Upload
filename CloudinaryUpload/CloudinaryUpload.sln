@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudinaryUpload", "CloudinaryUpload.csproj", "{D704047A-4336-42F2-A1A8-41669AF0BCC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D704047A-4336-42F2-A1A8-41669AF0BCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D704047A-4336-42F2-A1A8-41669AF0BCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D704047A-4336-42F2-A1A8-41669AF0BCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D704047A-4336-42F2-A1A8-41669AF0BCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03B68C4-9EB4-4F26-9116-C0C574F4F376}
+	EndGlobalSection
+EndGlobal
